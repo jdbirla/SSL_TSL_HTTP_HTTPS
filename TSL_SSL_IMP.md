@@ -8,3 +8,5 @@
 - HTTPs
 <img width="1914" height="1069" alt="image" src="https://github.com/user-attachments/assets/21f63e7e-bc6a-4835-8aae-9b20633a4ee7" />
 ![Uploading image.png…]()
+
+## Section 3: Encryption and hashing overview 
