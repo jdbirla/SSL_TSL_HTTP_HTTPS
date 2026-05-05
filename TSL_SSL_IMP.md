@@ -35,6 +35,10 @@
 
 ----
 ## Section 4 : RSA, Certificates and Chain of Trust
+- install openssl
+<img width="1661" height="990" alt="image" src="https://github.com/user-attachments/assets/0354422a-4986-4d9d-bf5d-40e43b26f12a" />
+<img width="1451" height="544" alt="image" src="https://github.com/user-attachments/assets/d5ecc58e-8ecc-4e62-bc2b-fc00d7c6b8fc" />
+<img width="1634" height="943" alt="image" src="https://github.com/user-attachments/assets/d0739834-a777-457d-8d4a-939560d38613" />
 
 
 
